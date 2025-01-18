@@ -1,5 +1,5 @@
 # Wolfenstein like Renderer
-This is my version of a Wolfenstain like game engine. It uses SDL2 as its drawing engine.
+This is my version of a Wolfenstein like game engine. It uses SDL2 as its drawing engine.
 
 It works by shooting rays out of the player to check for collisions.
 
